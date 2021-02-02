@@ -1,0 +1,5 @@
+.postItemWrapper{
+    display: grid;
+    grid-template-columns: 0.2fr 0.2fr 1.3fr 2fr;
+    padding: 7px;
+}

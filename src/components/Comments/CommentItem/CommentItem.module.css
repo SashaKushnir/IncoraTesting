@@ -1,0 +1,4 @@
+.commentsWrapper{
+    display: grid;
+    grid-template-columns: 400px 300px auto;
+}
